@@ -28,12 +28,11 @@ REACT_APP_AUTH0_CLIENT_ID=YOUR AUTH0 CLIENT ID HERE
 REACT_APP_AUTH0_CALLBACK_URL=http://localhost:3000/callback
 ```
 
-3. Run the following:
+4. Run the following:
 
 ```
 npm install
 npm start
-
 ```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
